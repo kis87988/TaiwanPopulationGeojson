@@ -7,7 +7,7 @@
 !index.html
 !taiwangeo.json
 !style.css
-
+!*.csv
 
 # ...even if they are in subdirectories
 #!*/
